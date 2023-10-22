@@ -8,6 +8,7 @@ class Calculator
         int Sub (double, double);
         int Plus (int, int);
         int Multiplicate (double, double);
+        int Degree(int, int);
 };
 
 #endif//CALCULATOR_H
